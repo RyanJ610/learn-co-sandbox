@@ -1,0 +1,18 @@
+ DOCTYPE! html 
+
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <h1>Heading</h1>
+    
+    <p>Paragraph in html</p>
+    <img src = "https://curriculum-content.s3.amazonaws.com/web-development/circle_logo.jpg">
+    
+  </body>
+  
+
+
+
+</html>
